@@ -16,6 +16,6 @@ jobs:
 
       - name: Verificar que los archivos existen
         run: |
-          test -f index.html
+          test -f Index.html
           test -f style.css
           test -f app.js
